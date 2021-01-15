@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
-from QP import reconstructFloorplan, findMatches
+from QP import findMatches
+from IP import reconstructFloorplan
 from RecordReader import *
 from train import *
 
