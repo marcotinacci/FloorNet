@@ -1,0 +1,8 @@
+numpy
+tensorflow==1.15
+# import GPU instead if you can use cuda
+# tensorflow-gpu==1.15
+opencv-python==4.2.0.32
+tflearn
+scikit-image
+pulp
